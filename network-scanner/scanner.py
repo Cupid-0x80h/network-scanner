@@ -1,5 +1,3 @@
-# final_scanner.py
-
 import socket
 import threading
 from queue import Queue
